@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SHIVARAJ2K04/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/SHIVARAJ2K04/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SHIVARAJ2K04/Leetcode/tree/master/0013-roman-to-integer) |
 ## Array
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SHIVARAJ2K04/Leetcode/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SHIVARAJ2K04/Leetcode/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SHIVARAJ2K04/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
